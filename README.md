@@ -1,3 +1,4 @@
-# Tutorial
+# WhiteBoard
 
-This is my tutorial repository.
+A webbased whiteboard tool, allows multiple people to modify on the whiteboard
+
